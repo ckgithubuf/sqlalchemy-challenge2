@@ -36,7 +36,8 @@ def welcome():
     return (
         f"Available Routes:<br/>"
         f"/api/v1.0/precipitation<br/>"
-        f"/api/v1.0/stations"
+        f"/api/v1.0/stations<br/>"
+        f"/api/v1.0/tobs"
     )
 
 
